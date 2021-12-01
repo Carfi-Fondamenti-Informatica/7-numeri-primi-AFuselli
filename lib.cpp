@@ -18,3 +18,4 @@ bool NumeriPrimi(int n,int d){
         return false;
     }
 }
+  
