@@ -7,5 +7,5 @@
 
 bool NumeriPrimi(int , int);
 
-#endif //COMPITO7_NUMERIPRIMI_LIB_H
+#endif //COMPITO7_NUMERIPRIMI_LIB_H 
 
